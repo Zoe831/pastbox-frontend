@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "home": "Home",
+    "create": "Create Story"
+  },
+  "home": {
+    "welcome": "Welcome to Pastbox",
+    "subtitle": "Discover stories shared by our community",
+    "noStories": "No public stories yet. Be the first to share your story!",
+    "createdOn": "Created on {{date}}"
+  },
+  "create": {
+    "title": "Create Your Time Capsule",
+    "content": "Your Story",
+    "reminderDate": "Reminder Date",
+    "email": "Email Address",
+    "isPublic": "Make this story public",
+    "uploadImage": "Upload Image",
+    "submit": "Create Time Capsule",
+    "success": "Pastbox created successfully! Redirecting to home page...",
+    "error": "Failed to create story. Please try again."
+  },
+  "background": {
+    "default": "Default Gradient",
+    "warm": "Warm Gradient",
+    "fresh": "Fresh Blue-Green",
+    "purple": "Purple Dream",
+    "ocean": "Ocean Style",
+    "custom": "Custom Image Background",
+    "setCustom": "Set Custom Background Image",
+    "imageUrl": "Image URL",
+    "enterUrl": "Enter image URL...",
+    "setBackground": "Set Background"
+  }
+} 

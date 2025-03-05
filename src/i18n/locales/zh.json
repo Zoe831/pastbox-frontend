@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "home": "首页",
+    "create": "创建故事"
+  },
+  "home": {
+    "welcome": "欢迎来到 Pastbox",
+    "subtitle": "发现社区分享的故事",
+    "noStories": "还没有公开的故事。成为第一个分享故事的人吧！",
+    "createdOn": "创建于 {{date}}"
+  },
+  "create": {
+    "title": "创建你的时间胶囊",
+    "content": "你的故事",
+    "reminderDate": "提醒日期",
+    "email": "邮箱地址",
+    "isPublic": "公开这个故事",
+    "uploadImage": "上传图片",
+    "submit": "创建时间胶囊",
+    "success": "时间胶囊创建成功！正在返回首页...",
+    "error": "创建故事失败，请重试。"
+  },
+  "background": {
+    "default": "默认渐变",
+    "warm": "温暖渐变",
+    "fresh": "清新蓝绿",
+    "purple": "紫色梦幻",
+    "ocean": "海洋风格",
+    "custom": "自定义图片背景",
+    "setCustom": "设置自定义背景图片",
+    "imageUrl": "图片网址",
+    "enterUrl": "输入图片网址...",
+    "setBackground": "设置背景"
+  }
+} 

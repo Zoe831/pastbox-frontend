@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "create": "Créer une Histoire"
+  },
+  "home": {
+    "welcome": "Bienvenue sur Pastbox",
+    "subtitle": "Découvrez les histoires partagées par notre communauté",
+    "noStories": "Aucune histoire publique pour le moment. Soyez le premier à partager votre histoire !",
+    "createdOn": "Créé le {{date}}"
+  },
+  "create": {
+    "title": "Créez Votre Capsule Temporelle",
+    "content": "Votre Histoire",
+    "reminderDate": "Date de Rappel",
+    "email": "Adresse E-mail",
+    "isPublic": "Rendre cette histoire publique",
+    "uploadImage": "Télécharger une Image",
+    "submit": "Créer la Capsule Temporelle",
+    "success": "Capsule temporelle créée avec succès ! Redirection vers la page d'accueil...",
+    "error": "Échec de la création de l'histoire. Veuillez réessayer."
+  },
+  "background": {
+    "default": "Dégradé par Défaut",
+    "warm": "Dégradé Chaud",
+    "fresh": "Bleu-Vert Frais",
+    "purple": "Rêve Violet",
+    "ocean": "Style Océan",
+    "custom": "Image de Fond Personnalisée",
+    "setCustom": "Définir l'Image de Fond",
+    "imageUrl": "URL de l'Image",
+    "enterUrl": "Entrez l'URL de l'image...",
+    "setBackground": "Définir le Fond"
+  }
+} 
